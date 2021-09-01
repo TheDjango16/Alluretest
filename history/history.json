@@ -1,0 +1,61 @@
+{
+  "fbb9a13f3b95e01870117a5a8ad0b7e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e10b1a65c49666e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630489813913,
+        "stop" : 1630489814009,
+        "duration" : 96
+      }
+    } ]
+  },
+  "70aed455d7170db9a8ccc6bc98412ec" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1e2f3bf590add82",
+      "status" : "failed",
+      "statusDetails" : "expected [nopCommerce demo store. Login123] but found [nopCommerce demo store. Login]",
+      "time" : {
+        "start" : 1630489814139,
+        "stop" : 1630489818044,
+        "duration" : 3905
+      }
+    } ]
+  },
+  "a900ec1f1bda69d4f8e57749e0aa49f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cdcc5fa69f3403e0",
+      "status" : "skipped",
+      "statusDetails" : "Skip this test",
+      "time" : {
+        "start" : 1630489818055,
+        "stop" : 1630489818057,
+        "duration" : 2
+      }
+    } ]
+  }
+}

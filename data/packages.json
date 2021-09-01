@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "allureReports.TestCase1",
+    "children" : [ {
+      "name" : "logo",
+      "uid" : "e10b1a65c49666e3",
+      "parentUid" : "fe49e2c2b3c5cf8003d2df0ab535e49c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630489813913,
+        "stop" : 1630489814009,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "login",
+      "uid" : "f1e2f3bf590add82",
+      "parentUid" : "fe49e2c2b3c5cf8003d2df0ab535e49c",
+      "status" : "failed",
+      "time" : {
+        "start" : 1630489814139,
+        "stop" : 1630489818044,
+        "duration" : 3905
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "registration",
+      "uid" : "cdcc5fa69f3403e0",
+      "parentUid" : "fe49e2c2b3c5cf8003d2df0ab535e49c",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1630489818055,
+        "stop" : 1630489818057,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "allureReports.TestCase1"
+  } ]
+}
