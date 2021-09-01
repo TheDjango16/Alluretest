@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Wed Sep 01 15:20:18 IST 2021","Wed Sep 01 15:20:18 IST 2021","2","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","registration","registration",""
-"passed","Wed Sep 01 15:20:13 IST 2021","Wed Sep 01 15:20:14 IST 2021","96","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","logo","logo",""
-"failed","Wed Sep 01 15:20:14 IST 2021","Wed Sep 01 15:20:18 IST 2021","3905","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","login","login",""
+"failed","Wed Sep 01 15:58:29 IST 2021","Wed Sep 01 15:58:33 IST 2021","3896","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","login","login",""
+"passed","Wed Sep 01 15:58:29 IST 2021","Wed Sep 01 15:58:29 IST 2021","80","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","logo","logo",""
+"skipped","Wed Sep 01 15:58:33 IST 2021","Wed Sep 01 15:58:33 IST 2021","2","Suite","Test","allureReports.TestCase1","allureReports.TestCase1","registration","registration",""
